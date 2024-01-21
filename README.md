@@ -1,10 +1,6 @@
-### Hi there 👋         <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aadltya.aadltya" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aadltya.aadltya" />
 
 <img src="https://raw.githubusercontent.com/aadltya/aadltya/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
 
 <!--
 **aadltya/aadltya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
