@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/aadltya/aadltya/output/snake.svg" alt="Snake animation" />
 
+<p>aditya swami</p>
+
 <!--
 **aadltya/aadltya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
