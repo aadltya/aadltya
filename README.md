@@ -1,9 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aadltya.aadltya" />
 
 <img src="https://raw.githubusercontent.com/aadltya/aadltya/output/snake.svg" alt="Snake animation" />
-
-- 📫 How to reach me **adityaswami7200@gmail.com**
-
 <br>
 <!--
 **aadltya/aadltya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
