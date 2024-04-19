@@ -1,8 +1,4 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=aadltya.aadltya" />
-<div align="right">
-  <img src="https://profile-counter.glitch.me/aadltya/count.svg?"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/aadltya/aadltya/output/snake.svg" alt="Snake animation" />
