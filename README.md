@@ -1,5 +1,5 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=aadltya.aadltya" />
-###
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aadltya.aadltya" />
+
 
 <img src="https://raw.githubusercontent.com/aadltya/aadltya/output/snake.svg" alt="Snake animation" />
 <br>
