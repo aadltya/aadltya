@@ -15,3 +15,27 @@ My Github Stats (Toggle)
 ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=aadltya&show_icons=true&hide_title=true&count_private=true&theme=onedark)
 
 </details>
+
+
+<details>
+<summary> 
+My Skills (Toggle)
+</summary>
+
+<h2>Languages</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,c++)](https://skillicons.dev)
+
+<h2>Frameworks</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
+
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo)](https://skillicons.dev)
+
+<h2>Tools</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux)](https://skillicons.dev)
+
+</details>
