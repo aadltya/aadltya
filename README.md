@@ -24,18 +24,18 @@ My Skills (Toggle)
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwindcss,express)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,redis,mongo,mysql)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,git,aws,kafka,cloudflare,grafana)](https://skillicons.dev)
 
 </details>
