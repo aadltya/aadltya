@@ -8,7 +8,7 @@
 
 <details>
 <summary> 
-Some Stats (Toggle)
+some stats (Toggle)
 </summary>
 
 ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=aadltya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=false&order=2&height=250)
@@ -19,7 +19,7 @@ Some Stats (Toggle)
 
 <details>
 <summary> 
-My Skills (Toggle)
+skills (Toggle)
 </summary>
 
 <h2>Languages</h2>
