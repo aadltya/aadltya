@@ -12,7 +12,7 @@ some stats (Toggle)
 </summary>
 
 ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=aadltya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=false&order=2&height=250)
-![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=aadltya&show_icons=true&hide_title=true&count_private=true&theme=onedark)
+<!-- ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=aadltya&show_icons=true&hide_title=true&count_private=true&theme=onedark) -->
 
 </details>
 
